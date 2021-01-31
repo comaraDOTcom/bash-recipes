@@ -2,7 +2,7 @@
 Useful bash scripts I use
 
 ## Contents
-* [strip_bom](#~)
+* [strip_bom](#strip-bom-source)
 
 ## Shell scripts
 
