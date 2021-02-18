@@ -1,8 +1,8 @@
-# bash-recipes
+# bash-recipes :bento:
 Useful bash scripts I use
 
 ## Contents
-* [strip_bom](#make_month_date)
+* [strip_bom](#strip-bom-source)
 
 ## Shell scripts
 
