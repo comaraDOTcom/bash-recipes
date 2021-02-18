@@ -11,6 +11,6 @@ This shell script removes the byte order mark form a csv. Creates a directory `n
 
 #### Usage (make it executable first):
 ```zsh
-chmod +x strip_bom.sh
+chmod u+x
 ./strip_bom.sh
 ```
